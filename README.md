@@ -31,8 +31,8 @@ Founder of **[Project Assistant](https://www.projectassistant.org/)** — we des
 
 ### GitHub pulse
 
-[![Anthony's GitHub stats](https://github-readme-stats.vercel.app/api?username=anthonyscolaro&show_icons=true&theme=radical&hide_border=true&count_private=true)](https://github.com/anthonyscolaro)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyscolaro&layout=compact&theme=radical&hide_border=true)](https://github.com/anthonyscolaro)
+[![Anthony's GitHub stats](https://github-stats-extended.vercel.app/api?username=anthonyscolaro&show_icons=true&theme=radical&hide_border=true)](https://github.com/anthonyscolaro)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anthonyscolaro&layout=compact&theme=radical&hide_border=true)](https://github.com/anthonyscolaro)
 
 Agency and agent repos live under **[PrismOrchestra](https://github.com/PrismOrchestra)**.
 
