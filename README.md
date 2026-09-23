@@ -29,11 +29,6 @@ Founder of **[Project Assistant](https://www.projectassistant.org/)** — we des
   <img alt="Cursor" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 </p>
 
-### GitHub pulse
-
-[![Anthony's GitHub stats](https://github-stats-extended.vercel.app/api?username=anthonyscolaro&show_icons=true&theme=radical&hide_border=true)](https://github.com/anthonyscolaro)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=anthonyscolaro&layout=compact&theme=radical&hide_border=true)](https://github.com/anthonyscolaro)
-
 Agency and agent repos live under **[PrismOrchestra](https://github.com/PrismOrchestra)**.
 
 ---
